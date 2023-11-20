@@ -1,6 +1,6 @@
 # Fala dev_! Eu sou faelson09, um simples nerd aficionado por programação, tecnologia, jogos e animes :grin:
 
-- :point_right: Trabalho como desenvolvedor fornt-end estou estudando back-nd
+- :point_right: Trabalho como desenvolvedor fornt-end estou estudando back-nd actulamente_!
 <br> 
 
 ### Ferramentas e linguagens
