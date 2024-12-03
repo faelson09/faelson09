@@ -26,7 +26,6 @@
 [<img src='http://img.shields.io/badge/-linkedin-0E76A8?style=flat-square&logo=linkedin&logoColor=ffffff' height='20'>](https://www.linkedin.com/in/faelson-nunes-80a091272/)
 [<img src='http://img.shields.io/badge/-twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff' height='20'>](https://twitter.com/FaelsonNunes)
 
-
 <br>
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelson09&layout=compact&show=python&count_private=false" alt="faelson09" /></div>
