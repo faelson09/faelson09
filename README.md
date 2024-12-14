@@ -3,7 +3,7 @@
 - :point_right: Trabalho como desenvolvedor fornt-end estou estudando back-nd actulamente_!
 <br> 
 
-### Ferramentas e linguagens
+### Ferramentas e linguagens...
 ---
 ![React.JS](https://img.shields.io/badge/-React.Js-087ea4?style=flat-square&logo=react&logoColor=ffffff)
 ![React.JS](https://img.shields.io/badge/-React%20Native-087ea4?style=flat-square&logo=react&logoColor=ffffff)
