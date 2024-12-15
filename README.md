@@ -20,7 +20,7 @@
 
 <br>
 
-### Dá uma olhada aí!
+### Dá uma olhada aqui!
 [<img src='http://img.shields.io/badge/-instagram-405DE6?style=flat-square&logo=instagram&logoColor=ffffff' height='20'>](https://www.instagram.com/faelsonn09)
 [<img src='http://img.shields.io/badge/-facebook-4267B2?style=flat-square&logo=facebook&logoColor=ffffff' height='20'>](https://facebook.com/faelsonn09)
 [<img src='http://img.shields.io/badge/-linkedin-0E76A8?style=flat-square&logo=linkedin&logoColor=ffffff' height='20'>](https://www.linkedin.com/in/faelson-nunes-80a091272/)
