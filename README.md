@@ -1,4 +1,4 @@
-# Fala dev_! Eu sou faelson09, um simples nerd aficionado por programação, tecnologia e etc... :grin:
+# Fala dev_! Eu sou Faelson09, um simples nerd aficionado por programação, tecnologia e etc... :grin:
 
 - :point_right: Trabalho como desenvolvedor fornt-end estou estudando back-nd actulamente_!
 <br> 
