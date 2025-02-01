@@ -32,3 +32,6 @@
 <br>
 <br>
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=faelson09&show_icons=true&count_private=false" alt="faelson09" /></div>
+<br>
+<br>
+<div><img align="center" src="[https://github-readme-stats.vercel.app/api?username=faelson09&show_icons=true&count_private=false](https://wakatime.com/badge/user/39e0f28d-d113-4e2b-8755-b502c5764cc9/project/e44b7c80-5602-4840-8ec8-140efc55442c.svg)" alt="faelson09" /></div>
